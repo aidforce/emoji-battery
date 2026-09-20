@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">表情符號電池</string>
+    <string name="app_subtitle">自訂寶可夢貼圖電池覆蓋層</string>
+    <string name="onboarding_title">歡迎使用</string>
+    <string name="onboarding_desc">在狀態列附近顯示可愛寶可夢貼圖與即時電量百分比。使用前請先授權「顯示在其他應用程式上層」。</string>
+    <string name="permission_title">顯示在其他應用程式上層</string>
+    <string name="permission_desc">需要此權限才能在畫面上繪製電池小工具。</string>
+    <string name="permission_granted">已授權 ✓</string>
+    <string name="permission_denied">尚未授權</string>
+    <string name="btn_grant_permission">前往授權</string>
+    <string name="overlay_toggle">啟用電池小工具</string>
+    <string name="overlay_on">小工具已開啟</string>
+    <string name="overlay_off">小工具已關閉</string>
+    <string name="sticker_section">選擇貼圖</string>
+    <string name="size_section">小工具大小</string>
+    <string name="position_section">水平位置</string>
+    <string name="size_small">小</string>
+    <string name="size_medium">中</string>
+    <string name="size_large">大</string>
+    <string name="pos_left">靠左</string>
+    <string name="pos_center">置中</string>
+    <string name="pos_right">靠右</string>
+    <string name="notification_channel">電池小工具</string>
+    <string name="notification_title">表情符號電池運行中</string>
+    <string name="notification_text">點擊開啟設定</string>
+    <string name="battery_preview">預覽</string>
+    <string name="hint_oem">提示：部分品牌（小米、OPPO、vivo 等）可能需在「電池最佳化」中允許此應用程式背景執行，小工具才會穩定顯示。</string>
+    <string name="sticker_treecko">木守宮</string>
+    <string name="sticker_pikachu">皮卡丘</string>
+    <string name="sticker_eevee">伊布</string>
+    <string name="sticker_mudkip">水躍魚</string>
+    <string name="sticker_torchic">火稚雞</string>
+    <string name="sticker_squirtle">傑尼龜</string>
+    <string name="credit_sprites">精靈圖 © Nintendo/Creatures/GAME FREAK — 來源 PokeAPI/sprites（個人使用）</string>
+</resources>

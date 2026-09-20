@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Emoji Battery</string>
+    <string name="app_subtitle">Custom Pokémon sticker battery overlay</string>
+    <string name="onboarding_title">Welcome</string>
+    <string name="onboarding_desc">Show a cute Pokémon sticker with live battery percentage near the status bar. First grant “Display over other apps” permission.</string>
+    <string name="permission_title">Display over other apps</string>
+    <string name="permission_desc">Required to draw the battery widget on top of other apps.</string>
+    <string name="permission_granted">Granted ✓</string>
+    <string name="permission_denied">Not granted</string>
+    <string name="btn_grant_permission">Open permission settings</string>
+    <string name="overlay_toggle">Enable battery widget</string>
+    <string name="overlay_on">Widget is on</string>
+    <string name="overlay_off">Widget is off</string>
+    <string name="sticker_section">Choose sticker</string>
+    <string name="size_section">Widget size</string>
+    <string name="position_section">Horizontal position</string>
+    <string name="size_small">Small</string>
+    <string name="size_medium">Medium</string>
+    <string name="size_large">Large</string>
+    <string name="pos_left">Left</string>
+    <string name="pos_center">Center</string>
+    <string name="pos_right">Right</string>
+    <string name="notification_channel">Battery widget</string>
+    <string name="notification_title">Emoji Battery running</string>
+    <string name="notification_text">Tap to open settings</string>
+    <string name="battery_preview">Preview</string>
+    <string name="hint_oem">Tip: on some OEMs (Xiaomi, OPPO, vivo, etc.) allow this app in battery optimization / autostart so the overlay stays stable.</string>
+    <string name="sticker_treecko">Treecko</string>
+    <string name="sticker_pikachu">Pikachu</string>
+    <string name="sticker_eevee">Eevee</string>
+    <string name="sticker_mudkip">Mudkip</string>
+    <string name="sticker_torchic">Torchic</string>
+    <string name="sticker_squirtle">Squirtle</string>
+    <string name="credit_sprites">Sprites © Nintendo/Creatures/GAME FREAK — via PokeAPI/sprites (personal use)</string>
+</resources>

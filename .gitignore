@@ -1,0 +1,28 @@
+# Local machine configuration
+local.properties
+
+# Gradle
+.gradle/
+**/build/
+
+# Generated APKs and local artifacts
+/artifacts/*.apk
+*.apk
+*.aab
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.externalNativeBuild/
+.cxx/
+
+# Captures and OS metadata
+captures/
+.DS_Store
+Thumbs.db
+
+# Signing material
+*.jks
+*.keystore
+*.p12
+*.pem
